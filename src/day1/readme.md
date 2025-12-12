@@ -1,4 +1,4 @@
-Object oriented programming language
+# Object oriented programming language
 
 1. C++
 2. Java
@@ -7,7 +7,7 @@ Object oriented programming language
 
 OOP: Concept of Class and Object
 
-Attributes and behaviour
+## Attributes and behaviour
 
 Middle class: earning well, lives at a decent place, owns a car
 
@@ -17,33 +17,35 @@ XI class: specific subjects
 
 Class is a blue print. 
 
-Student: blueprint
+### Student: blueprint
 Attributes:
-	- studies in a school
-	- roll no
-	- class
-	- subjects
-	- marks
+- studies in a school
+- roll no
+- class
+- subjects
+- marks
+
 Behaviour: 
-	- studies
-	- appear in exams
-	- can also tell about the grades
+- studies
+- appear in exams
+- can also tell about the grades
 
 Objects:
 Ashish is a student
 Anusha is a student
 
 
-Employee:
+### Employee:
 Attributes:
-	- company name
-	- employee id
-	- salary
-	- dept
+- company name
+- employee id
+- salary
+- dept
+
 Behaviour:
-	- some responsibilities
-	- we can ask his salary
-	- we can ask for his department
+- some responsibilities
+- we can ask his salary
+- we can ask for his department
 
 Objects:
 Rajesh is a employee
@@ -54,12 +56,13 @@ All the objects of a blueprint will be same but can have different attribute val
 
 
 Button:
-	attribute/property:
-		- icon
-		- text
-		- size
-	behaviour:
-		- does something when clicked
+attribute/property:
+- icon
+- text
+- size
+
+behaviour:
+- does something when clicked
 
 
 We define attribute/properties by variables and behaviour by Method (does something, that means verb).
