@@ -7,6 +7,17 @@ public class Customer {
 	// private and public are access modifiers
 	private String id; // unique
 	private String name;
+	
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+
 	private String address;
 
 	public String getAddress() {
@@ -18,7 +29,7 @@ public class Customer {
 	}
 
 	// this is the constructor
-	Customer(String id, String name) {
+	public Customer(String id, String name) {
 		this.id = id;
 		this.name = name;
 	}
