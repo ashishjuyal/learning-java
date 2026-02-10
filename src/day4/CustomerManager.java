@@ -6,8 +6,8 @@ public class CustomerManager {
 
 		Customer customer1 = new Customer("123", "some-customer-name"); // instantiates a new object
 		
-		customer1.id = "xyz";
-		customer1.address = "asjdhajksd";
+//		customer1.id = "xyz";
+//		customer1.address = "asjdhajksd";
 		
 		print(customer1);
 //		customer1.setCustomer("123", "some-customer-name", "some address"); // setter
